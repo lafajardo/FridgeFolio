@@ -6,6 +6,9 @@ FridgeFolio is a simple web application that allows users to input and display i
 Enter details of items you want to store in your fridge.
 Display the entered item details in a list format.
 Clear the input fields after adding an item to the inventory.
+View expiration date of items and give notices on expired/near expired items.
+View a history of deleted transactions.
+User sign in, sign up, sign out implemented for multi user experience with each having seperate fridges.
 
 **Getting Started**
 To use FridgeFolio, follow these steps:
